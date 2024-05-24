@@ -1,0 +1,2 @@
+a=nan
+print(a)
